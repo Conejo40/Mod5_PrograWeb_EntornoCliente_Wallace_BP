@@ -1,4 +1,4 @@
-/* Se muestra un texto */
+/* Primera parte de la actividad autonoma. */
 
 console.log("TALLERES DE CASA TOMILLO");
 console.log("\t\t\u20A168 000 Cocina de la casa");
