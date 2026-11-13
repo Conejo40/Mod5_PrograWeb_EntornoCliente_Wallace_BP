@@ -6,5 +6,8 @@
 <!-- 2 -> Error del Sintaxis linea 3: Faltan las comillas al final del console.log. -->
 <!-- solucion -> Agregar las comillas -->
 
-<!-- 3 -> Error del Sintaxis linea 3: Faltan las comillas al final del console.log. -->
-<!-- solucion -> Agregar las comillas -->
+<!-- 3 -> Error de referencia linea 4: El programa es sencible a las mayus (Console.log). -->
+<!-- solucion -> console.log todo en minusculas -->
+
+<!-- 3 -> Error de convencion linea 5: Falta el punto y coma al final del (console.log). -->
+<!-- solucion -> Agrgar el punto y coma al final del console.log -->
