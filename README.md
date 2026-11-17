@@ -83,7 +83,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
             <td>Entorno de trabajo, MVC y JavaScript</td>
             <td align="left">(En esta sesion aprendí a usar JavaScript desde el navegador, como linkearlo al html y <strong> aprendí a diferenciar entre un error de sintaxis y un error de semantica) </strong></td>
             <td align="center"><a href="UA1/S02/" target="_blank" rel="noopener">Ver</a></td>
-            <td align="center"><a href="UA1/S02/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S02/Evidencias/S02.png" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr>
             <td align="center">S03</td>
@@ -421,14 +421,14 @@ La diferencia más importante que encontré entre C y JavaScript:
 
 Archivo: [pruebas/js/pruebas.js](UA1/S02/pruebas/js/pruebas.js)
 
-| Línea | Qué mostró la consola | Tipo | Corrección |
-| ----- | --------------------- | ---- | ---------- |
-| 2     |                       |      |            |
-| 3     |                       |      |            |
-| 4     |                       |      |            |
-| 5     |                       |      |            |
-| 6     |                       |      |            |
-| 7     |                       |      |            |
+| Línea | Qué mostró la consola |        Tipo        |                   Corrección                     |
+| ----- | --------------------- | ------------------ | ------------------------------------------------ |
+| 2     | Promedio: 80          | Correcta           | Ninguna                                          |
+| 3     | SyntaxError: .........| Error de sintaxis  | console.log("Hola, mundo");                      |
+| 4     | Total: 1500900        | Error de semantica | console.log("Total: ", 1500 + 900);              |
+| 5     | Bienvenida al "INA"   | Correcta           | Ninguna                                          |
+| 6     | Perímetro de 4 x 3: 10| Error de semantica | console.log("Perímetro de 4 x 3:", (4 + 3) * 2); |
+| 7     | SyntaxError: .........| Error de sintaxis  | console.log('Bienvenida al "INA"');              |
 
 **Autoevaluación**
 
