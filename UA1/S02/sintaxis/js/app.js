@@ -8,6 +8,4 @@ console.log("Fin del programa");
 console.log("Promedio de 8 y 9");
 console.log(8 + 9 / 2); /* primero divide y luego suma */
 
-console.log(
-  (8 + 9) / 2,
-); /* solucion: la suma entre () para que se haga primero. */
+console.log((8 + 9) / 2,); /* solucion: la suma entre () para que se haga primero. */

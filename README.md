@@ -74,14 +74,14 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
             <td align="center">S01</td>
             <td>Bienvenida, encuadre y diagnóstico</td>
             <td align="left">(En esta sesion hice un dignostico y un cuadro comparativo, donde investigue la teoria
-            de C, javaScrip y TypeScrip.)</td>
+            de C, javaScript y TypeScript.)</td>
             <td align="center"><a href="UA1/S01/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA1/S01/Evidencias/S01.png" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr>
             <td align="center">S02</td>
             <td>Entorno de trabajo, MVC y JavaScript</td>
-            <td align="left">(Completar al terminar la sesión)</td>
+            <td align="left">(En esta sesion aprendí a usar JavaScript desde el navegador, como linkearlo al html y <strong> aprendí a diferenciar entre un error de sintaxis y un error de semantica) </strong></td>
             <td align="center"><a href="UA1/S02/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA1/S02/capturas/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
