@@ -76,7 +76,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
             <td align="left">(En esta sesion hice un dignostico y un cuadro comparativo, donde investigue la teoria
             de C, javaScrip y TypeScrip.)</td>
             <td align="center"><a href="UA1/S01/" target="_blank" rel="noopener">Ver</a></td>
-            <td align="center"><a href="UA1/S01/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S01/Evidencias/S01.png" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr>
             <td align="center">S02</td>
