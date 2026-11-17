@@ -434,10 +434,10 @@ Archivo: [pruebas/js/pruebas.js](UA1/S02/pruebas/js/pruebas.js)
 
 | Indicador                                                                                      | Sí  | Aún no |
 | ---------------------------------------------------------------------------------------------- | --- | ------ |
-| Copié Luz Clara en `luz-clara/` y Casa Tomillo en `casa-tomillo/`, y los abro con Live Server. |     |        |
-| Mi repositorio está en GitHub con el README.                                                   |     |        |
-| Distingo un error de sintaxis de uno de semántica.                                             |     |        |
-| Uso `//` para aislar un error y seguir probando.                                               |     |        |
+| Copié Luz Clara en `luz-clara/` y Casa Tomillo en `casa-tomillo/`, y los abro con Live Server. | Sí  |        |
+| Mi repositorio está en GitHub con el README.                                                   | Sí  |        |
+| Distingo un error de sintaxis de uno de semántica.                                             | Sí  |        |
+| Uso `//` para aislar un error y seguir probando.                                               | Sí  |        |
 
 </details>
 
