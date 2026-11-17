@@ -13,9 +13,9 @@ couota = Math.ceil(cuota);
 const colones = new Intl.NumberFormat("es-CR", {style: "currency", currency: "CRC"});
 
 /* Salida de datos: */
-console.log(`Taller:, ${taller.toUpperCase()}`);
+console.log(`Taller: ${taller.toUpperCase()}`);
 console.log(`${fecha.toLocaleDateString("es-CR", {dateStyle: "full"})}`);
-console.log("Total:", colones.format(total));
+console.log(`Total: ${colones.format(total)}`);
 console.log(`${cuotas} cuotas de ${colones.format(cuota)}`);
-console.log("¿Cuota exacta?", Number.isInteger(cuota));
+console.log(`¿Cuota exacta? ${Number.isInteger(cuota)}`);
 console.log(`Con ${cuotas -1} cuotas: ${colones.format(total / 3 )} cada una`);
