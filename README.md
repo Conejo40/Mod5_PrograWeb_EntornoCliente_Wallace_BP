@@ -73,7 +73,8 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
         <tr>
             <td align="center">S01</td>
             <td>Bienvenida, encuadre y diagnóstico</td>
-            <td align="left">(Completar al terminar la sesión)</td>
+            <td align="left">(En esta sesion hice un dignostico y un cuadro comparativo, donde investigue la teoria
+            de C, javaScrip y TypeScrip.)</td>
             <td align="center"><a href="UA1/S01/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA1/S01/capturas/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
