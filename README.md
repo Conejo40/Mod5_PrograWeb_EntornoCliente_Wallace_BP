@@ -408,7 +408,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
 <details>
 <summary>▼<b>Clase 01 · 10/11/2026 · Bienvenida, encuadre y diagnóstico</b></summary>
 
-Archivo: [S01_Cuadro_comparativo_Nombre_Apellido.docx](UA1/S01/S01_Cuadro_comparativo_Nombre_Apellido.docx) (tarea para la clase 2).
+Archivo: [S01_Cuadro_comparativo_Nombre_Apellido.docx](UA1/S01/S01_Cuadro_comparativo_Wallace_Barboza.docx) (tarea para la clase 2).
 
 **Conclusión**
 
