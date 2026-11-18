@@ -541,12 +541,12 @@ Archivos: [horario/js/horarios.js](UA1/S03/horario/js/horarios.js) · [luz-clara
 
 **Ejercicio 1 · Pruebas de cupos.js**
 
-| Prueba | Mensajes que mostró la consola |
-|---|---|
-| cupos = 6 |  |
-| cupos = 2 |  |
-| cupos = 0 |  |
-| nivel = "Intermedio" |  |
+|        Prueba        |                   Mensajes que mostró la consola                    |
+|----------------------|---------------------------------------------------------------------|
+| cupos = 6            |Hay cupos disponibles, «Quedan 6 cupos», «No necesita experiencia»   |
+| cupos = 2            |⚠ ¡Últimos cupos!, «Quedan 2 cupos», «No necesita experiencia»      |
+| cupos = 0            |✖ Taller lleno, «Quedan 0 cupos», «No necesita experiencia»         |
+| nivel = "Intermedio" |Hay cupos disponibles, «Quedan 6 cupos», «Requiere el nivel inicial» |
 
 **Ejercicio 3 · Cacería con DevTools**
 
