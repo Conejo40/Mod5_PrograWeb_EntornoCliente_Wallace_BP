@@ -448,12 +448,12 @@ Archivos: [horario/js/horarios.js](UA1/S03/horario/js/horarios.js) · [luz-clara
 
 **Cacería de errores**
 
-| #   | Mensaje de la consola | Archivo:línea | Corrección |
-| --- | --------------------- | ------------- | ---------- |
-| 1   |                       |               |            |
-| 2   |                       |               |            |
-| 3   |                       |               |            |
-| 4   |                       |               |            |
+| #   |          Mensaje de la consola          | Archivo:línea |                    Corrección                   |
+| --- | --------------------------------------- | ------------- | ----------------------------------------------- |
+| 1   | 404 (Not Found)                         | index.html:11 | Cambiar horario.js por horarios.js en el src.   |
+| 2   | SyntaxError: Invalid or unexpected token| horarios.js:3 | Agregar las comillas en el cierre.              |
+| 3   | ReferenceError: Console is not defined  | horarios.js:4 | console.log todo en minusculas.                 |
+| 4   | No aparece en la consola                | horarios.js:5 | Agrgar el punto y coma al final del console.log.|
 
 **Reto MVC**
 
