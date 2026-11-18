@@ -15,11 +15,11 @@ console.log(cupos === 1 ? "«Queda 1 cupo»" : `«Quedan ${cupos} cupos»`)
 switch (nivel) {
   case "inicial":
     console.log("«No necesita experiencia»");
-    break
+    break;
   case "intermedio":
     console.log("«Requiere el nivel inicial»");
-    break
+    break;
   default:
     console.log("«Consulte con la escuela»")
-    break
+    break;
 }   
