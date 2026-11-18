@@ -470,10 +470,10 @@ Archivos: [horario/js/horarios.js](UA1/S03/horario/js/horarios.js) · [luz-clara
 
 | Indicador                                                       | Sí  | Aún no |
 | --------------------------------------------------------------- | --- | ------ |
-| Enlazo un archivo .js al final del body o en el head con defer. |     |        |
-| Uso comentarios de línea y de bloque.                           |     |        |
-| Uso \n, \t, \", \\ y \u en textos.                              |     |        |
-| Leo el tipo de error, el mensaje y la línea en la consola.      |     |        |
+| Enlazo un archivo .js al final del body o en el head con defer. | Sí  |        |
+| Uso comentarios de línea y de bloque.                           | Sí  |        |
+| Uso \n, \t, \", \\ y \u en textos.                              | Sí  |        |
+| Leo el tipo de error, el mensaje y la línea en la consola.      | Sí  |        |
 
 </details>
 
