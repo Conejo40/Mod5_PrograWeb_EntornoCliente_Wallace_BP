@@ -88,9 +88,9 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
         <tr>
             <td align="center">S03</td>
             <td>Entorno en el laboratorio y mi primer script</td>
-            <td align="left">(Completar al terminar la sesión)</td>
+            <td align="left">(En esta sesion hice mi primer script y arendí las formas de usarlo, tambien el uso del defer, las reglas básicas de escritura en JavaScript, las secuencias de escape y seguimos practicando a como identificar los errores desde la consola.)</td>
             <td align="center"><a href="UA1/S03/" target="_blank" rel="noopener">Ver</a></td>
-            <td align="center"><a href="UA1/S03/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S03/Evidencias/S03.png" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr>
             <td align="center">S04</td>
@@ -457,14 +457,14 @@ Archivos: [horario/js/horarios.js](UA1/S03/horario/js/horarios.js) · [luz-clara
 
 **Reto MVC**
 
-| Elemento | Componente | Justificación |
-| -------- | ---------- | ------------- |
-| 1        |            |               |
-| 2        |            |               |
-| 3        |            |               |
-| 4        |            |               |
-| 5        |            |               |
-| 6        |            |               |
+| Elemento | Componente |                            Justificación                             |
+| -------- | ---------- | -------------------------------------------------------------------- |
+| 1        | Modelo     | Guarda los datos de los talleres, como nombre, nivel y precio.       |
+| 2        | Vista      | Muestra la tabla de talleres y sus estilos al usuario.               |
+| 3        | Controlador| Recibe la selección del usuario y solicita registrar la inscripción. |
+| 4        | Modelo     | Administra la información de los cupos disponibles.                  |
+| 5        | Vista      | Muestra el mensaje de confirmación en la pantalla.                   |
+| 6        | Controlador| Valida que se haya marcado «Acepto» antes de enviar.                 |
 
 **Autoevaluación**
 
