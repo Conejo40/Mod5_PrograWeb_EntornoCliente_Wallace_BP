@@ -95,7 +95,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
         <tr>
             <td align="center">S04</td>
             <td>Variables, constantes, tipos y operadores</td>
-            <td align="left">(Aprendí a usar variables (let) y constantes (const), los signos de operacion, los tipos de datos con typeof, algunos signos de comparacion y apedir datos con prompt.)</td>
+            <td align="left">(Aprendí a usar variables (let) y constantes (const), los signos de operacion, los tipos de datos con typeof, algunos signos de comparacion y apedir datos con prompt (siempre devuelve un dato de tipo string).)</td>
             <td align="center"><a href="UA1/S04/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA1/S04/Evidencias/S04.png" target="_blank" rel="noopener">Ver</a></td>
         </tr>
@@ -484,25 +484,25 @@ Archivos: [horario/js/horarios.js](UA1/S03/horario/js/horarios.js) · [luz-clara
 
 | #   | Expresión        | Mi predicción | Lo que mostró la consola |
 | --- | ---------------- | ------------- | ------------------------ |
-| 1   | `typeof "95000"` |               |                          |
-| 2   | `typeof 95000`   |               |                          |
-| 3   | `typeof 9.5`     |               |                          |
-| 4   | `typeof "true"`  |               |                          |
-| 5   | `"5" + 2`        |               |                          |
-| 6   | `"5" - 2`        |               |                          |
-| 7   | `5 === "5"`      |               |                          |
-| 8   | `10 % 3`         |               |                          |
-| 9   | `true && false`  |               |                          |
-| 10  | `!(3 > 2)`       |               |                          |
+| 1   | `typeof "95000"` | String        | String                   |
+| 2   | `typeof 95000`   | Number        | Number                   |
+| 3   | `typeof 9.5`     | Number        | Number                   |
+| 4   | `typeof "true"`  | String        | String                   |
+| 5   | `"5" + 2`        | 52            | 52                       |
+| 6   | `"5" - 2`        | 3             | 3                        |
+| 7   | `5 === "5"`      | false         | false                    |
+| 8   | `10 % 3`         | 1             | 1                        |
+| 9   | `true && false`  | false         | false                    |
+| 10  | `!(3 > 2)`       | false         | false                    |
 
 **Autoevaluación**
 
 | Indicador                                                 | Sí  | Aún no |
 | --------------------------------------------------------- | --- | ------ |
-| Uso const si el valor no cambia y let si cambia.          |     |        |
-| Reconozco cadenas, números, booleanos y null.             |     |        |
-| Calculo con operadores en lugar de escribir el resultado. |     |        |
-| Sé que prompt devuelve texto y lo convierto con Number.   |     |        |
+| Uso const si el valor no cambia y let si cambia.          | Sí  |        |
+| Reconozco cadenas, números, booleanos y null.             | Sí  |        |
+| Calculo con operadores en lugar de escribir el resultado. | Sí  |        |
+| Sé que prompt devuelve texto y lo convierto con Number.   | Sí  |        |
 
 </details>
 
