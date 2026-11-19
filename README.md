@@ -109,7 +109,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
         <tr>
             <td align="center">S06</td>
             <td>Decisiones y depuración en el navegador</td>
-            <td align="left">(Completar al terminar la sesión)</td>
+            <td align="left">(En esta sesion vimos y aprendi a usar los condicionales (if, else if y if), el switch case, el operador terneario (?); sl uso del break en un switch, la depuracion en el navegador y el <strong> try catch y finally para que el programa continue aun habiendo un error.)</td>
             <td align="center"><a href="UA1/S06/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA1/S06/capturas/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
@@ -511,28 +511,28 @@ Archivos: [horario/js/horarios.js](UA1/S03/horario/js/horarios.js) · [luz-clara
 
 **Predicciones**
 
-| # | Expresión | Mi predicción | Lo que mostró la consola |
-|---|---|---|---|
-| 1 | `Math.round(2.5)` |  |  |
-| 2 | `Math.floor(9.99)` |  |  |
-| 3 | `"Luz".length` |  |  |
-| 4 | `"casa".toUpperCase()` |  |  |
-| 5 | `parseInt("12.9 horas")` |  |  |
-| 6 | `Number("doce")` |  |  |
-| 7 | `(3.14159).toFixed(2)` |  |  |
-| 8 | `typeof (10).toString()` |  |  |
-| 9 | `new Date(2026, 0, 1).getMonth()` |  |  |
-| 10 | <code>`2 + 3 = ${2 + 3}`</code> |  |  |
+| # |             Expresión            | Mi predicción |     Lo que mostró la consola     |
+|---|----------------------------------|---------------|----------------------------------|
+| 1 | `Math.round(2.5)`                | 3             | 3                                |
+| 2 | `Math.floor(9.99)`               | 9             | 9                                |
+| 3 | `"Luz".length`                   | 3             | 3                                |
+| 4 | `"casa".toUpperCase()`           | CASA          | CASA                             |
+| 5 | `parseInt("12.9 horas")`         | 12            | 12                               |
+| 6 | `Number("doce")`                 | NaN           | NaN                              |
+| 7 | `(3.14159).toFixed(2)`           | 3.14          | 3.14                             |
+| 8 | `typeof (10).toString()`         | string        | String                           |
+| 9 | `new Date(2026, 0, 1).getMonth()`| 0             | 0                                |
+| 10| <code>`2 + 3 = ${2 + 3}`</code>  | error         | SyntaxError: Unexpected token '<'|
 
 **Autoevaluación**
 
-| Indicador | Sí | Aún no |
-|---|---|---|
-| Uso métodos de Math (round, floor, ceil). | | |
-| Limpio y transformo textos (trim, toUpperCase, length). | | |
-| Creo fechas recordando que los meses empiezan en 0. | | |
-| Muestro montos en colones con Intl. | | |
-| Elijo entre Number, parseInt y parseFloat. | | |
+|                        Indicador                        | Sí | Aún no |
+|---------------------------------------------------------|----|--------|
+| Uso métodos de Math (round, floor, ceil).               | Sí |        |
+| Limpio y transformo textos (trim, toUpperCase, length). | Sí |        |
+| Creo fechas recordando que los meses empiezan en 0.     | Sí |        |
+| Muestro montos en colones con Intl.                     | Sí |        |
+| Elijo entre Number, parseInt y parseFloat.              | Sí |        |
 
 </details>
 
