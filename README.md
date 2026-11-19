@@ -550,22 +550,22 @@ Archivos: [horario/js/horarios.js](UA1/S03/horario/js/horarios.js) · [luz-clara
 
 **Ejercicio 3 · Cacería con DevTools**
 
-| Pregunta | Respuesta |
-|---|---|
-| ¿En qué línea puso el punto de interrupción? |  |
-| ¿Qué valor tenía descuento al detenerse? |  |
-| ¿Cuál era la causa del error? |  |
-| ¿Cómo lo corrigió? |  |
+|                   Pregunta                   |      Respuesta      |
+|----------------------------------------------|---------------------|
+| ¿En qué línea puso el punto de interrupción? | 4                   |
+| ¿Qué valor tenía descuento al detenerse?     | 0                   |
+| ¿Cuál era la causa del error?                | boquilla alreves    |
+| ¿Cómo lo corrigió?                           | if (monto <= 50000) |
 
 **Autoevaluación**
 
-| Indicador | Sí | Aún no |
-|---|---|---|
-| Escribo if / else if / else con las condiciones en el orden correcto. | | |
-| Uso el ternario para elegir entre dos valores. | | |
-| Escribo switch con break y default. | | |
-| Pongo un punto de interrupción y avanzo con F10. | | |
-| Uso try / catch para que el programa no se detenga. | | |
+|                               Indicador                               | Sí | Aún no |
+|-----------------------------------------------------------------------|----|--------|
+| Escribo if / else if / else con las condiciones en el orden correcto. | Sí |        |
+| Uso el ternario para elegir entre dos valores.                        | Sí |        |
+| Escribo switch con break y default.                                   | Sí |        |
+| Pongo un punto de interrupción y avanzo con F10.                      | Sí |        |
+| Uso try / catch para que el programa no se detenga.                   | Sí |        |
 
 </details>
 
