@@ -102,9 +102,9 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
         <tr>
             <td align="center">S05</td>
             <td>Números, textos, fechas y conversión de datos</td>
-            <td align="left">(Completar al terminar la sesión)</td>
+            <td align="left">(Aprendí a usar math, métodos de cadenas y plantillas, a usar fechas con Date, a usar el formato de miles y colones con Intl y las conversiones de datos.)</td>
             <td align="center"><a href="UA1/S05/" target="_blank" rel="noopener">Ver</a></td>
-            <td align="center"><a href="UA1/S05/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S05/Evidencias/S05.png" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr>
             <td align="center">S06</td>
