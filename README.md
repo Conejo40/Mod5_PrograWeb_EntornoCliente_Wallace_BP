@@ -81,7 +81,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
         <tr>
             <td align="center">S02</td>
             <td>Entorno de trabajo, MVC y JavaScript</td>
-            <td align="left">(En esta sesion aprendí a usar JavaScript desde el navegador, como linkearlo al html y <strong> aprendí a diferenciar entre un error de sintaxis y un error de semantica) </strong></td>
+            <td align="left">(En esta sesion aprendí a usar JavaScript desde el navegador, como linkearlo al html y <strong> aprendí a diferenciar entre un error de sintaxis y un error de semantica. </strong>) </td>
             <td align="center"><a href="UA1/S02/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA1/S02/Evidencias/S02.png" target="_blank" rel="noopener">Ver</a></td>
         </tr>
@@ -109,9 +109,11 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
         <tr>
             <td align="center">S06</td>
             <td>Decisiones y depuración en el navegador</td>
-            <td align="left">(En esta sesion vimos y aprendi a usar los condicionales (if, else if y if), el switch case, el operador terneario (?); sl uso del break en un switch, la depuracion en el navegador y el <strong> try catch y finally para que el programa continue aun habiendo un error.)</td>
+            <td align="left">(En esta sesion vimos y aprendi a usar los condicionales (if, else if y if), el switch case, el operador terneario (?); sl uso del break en un switch, la depuracion en el navegador y el <strong> try catch y finally para que el programa continue aun habiendo un error. </strong>)</td>
             <td align="center"><a href="UA1/S06/" target="_blank" rel="noopener">Ver</a></td>
-            <td align="center"><a href="UA1/S06/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S06/Evidencias/S06_autonoma_casa-tomillo.png" target="_blank" rel="noopener">Ver</a><br></td>
+            <td align="center"><a href="UA1/S06/Evidencias/S06_autonoma_horario.png" target="_blank" rel="noopener">Ver</a><br></td>
+            <td align="center"><a href="UA1/S06/Evidencias/S06_autonoma_depurar.png" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr>
             <td align="center">S07</td>
