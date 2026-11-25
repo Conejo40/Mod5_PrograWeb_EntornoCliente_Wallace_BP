@@ -583,7 +583,7 @@ Archivos: [horario/js/horarios.js](UA1/S03/horario/js/horarios.js) · [luz-clara
 | 3 | `for (let i = 0; i <= 5; i++)`          | 6 vueltas            | correcto   |
 | 4 | `let n = 10; while (n > 0) { n -= 3; }` | 4 vueltas            | correcto   |
 | 5 | `let n = 0; do { n++; } while (n < 0);` | 1 vuelta como minimo | correcto   |
-| 6 | `for (let i = 10; i > 0; i -= 2)`       | 5 vuetas             | correcto   |
+| 6 | `for (let i = 10; i > 0; i -= 2)`       | 5 vueltas            | correcto   |
 
 **Autoevaluación**
 
