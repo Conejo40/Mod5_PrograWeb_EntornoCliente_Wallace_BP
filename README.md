@@ -118,9 +118,9 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
         <tr>
             <td align="center">S07</td>
             <td>Repeticiones, vectores y matrices</td>
-            <td align="left">(Completar al terminar la sesión)</td>
+            <td align="left">(En esta sesion aprendí a como usar los bucles <strong> for, while, do while, for of </strong>, ademas vimmos los vectores (arreglos), matrices y objetos a medias. <strong>Nota: Es casi lo mismo que en C, a excepcion de los objetos que es nuevo.</strong>)</td>
             <td align="center"><a href="UA1/S07/" target="_blank" rel="noopener">Ver</a></td>
-            <td align="center"><a href="UA1/S07/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S07/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr>
             <td align="center">S08</td>
